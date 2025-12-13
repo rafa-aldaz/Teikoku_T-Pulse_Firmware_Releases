@@ -1,0 +1,10 @@
+[
+  {
+    "version": "1.0.0.373",
+    "build": "373",
+    "releaseDate": "2025-12-13",
+    "releaseNotes": "Fixed DAC calibration, removed test code, improved 4-20mA output",
+    "url": "https://github.com/rafa-aldaz/Teikoku_T-Pulse_Firmware_Releases/releases/download/v1.0.0.373/Teikoku_V3-1.0.0.373.bin",
+    "signatureUrl": null
+  }
+]
