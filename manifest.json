@@ -1,5 +1,13 @@
 [
   {
+    "version": "1.0.0.374",
+    "build": "374",
+    "releaseDate": "2025-12-13",
+    "releaseNotes": "Fix SPIFFS initialization, improve OTA reliability, optimize transfer speed",
+    "url": "https://raw.githubusercontent.com/rafa-aldaz/Teikoku_T-Pulse_Firmware_Releases/main/firmware/Teikoku_T-Pulse-1.0.0.374.bin",
+    "signatureUrl": null
+  },
+  {
     "version": "1.0.0.373",
     "build": "373",
     "releaseDate": "2025-12-13",
