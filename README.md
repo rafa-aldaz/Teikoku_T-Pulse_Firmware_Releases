@@ -23,7 +23,7 @@ Firmware binaries are stored in the `firmware/` directory and are also attached 
 ```
 ├── manifest.json          # Firmware metadata (used by iOS app)
 ├── firmware/              # Firmware binary files
-│   └── Teikoku_V3-*.bin
+│   └── Teikoku_T-Pulse-*.bin
 └── README.md             # This file
 ```
 
