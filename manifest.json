@@ -1,5 +1,13 @@
 [
   {
+    "version": "1.0.1.2",
+    "build": "375",
+    "releaseDate": "2026-05-09",
+    "releaseNotes": "Upgrades to TRG signal acquisition and processing",
+    "url": "https://raw.githubusercontent.com/rafa-aldaz/Teikoku_T-Pulse_Firmware_Releases/main/firmware/Teikoku_T-Pulse-1.0.1.2.bin",
+    "signatureUrl": null
+  },
+  {
     "version": "1.0.1.1",
     "build": "374",
     "releaseDate": "2025-12-15",
