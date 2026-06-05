@@ -1,5 +1,13 @@
 [
   {
+    "version": "1.0.1.4",
+    "build": "377",
+    "releaseDate": "2026-06-04",
+    "releaseNotes": "Fixed phase monitoring fault detection and recovery",
+    "url": "https://raw.githubusercontent.com/rafa-aldaz/Teikoku_T-Pulse_Firmware_Releases/main/firmware/Teikoku_T-Pulse-1.0.1.4.bin",
+    "signatureUrl": null
+  },
+  {
     "version": "1.0.1.3",
     "build": "376",
     "releaseDate": "2026-05-16",
