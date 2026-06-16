@@ -1,5 +1,13 @@
 [
   {
+    "version": "1.0.1.5",
+    "build": "378",
+    "releaseDate": "2026-06-05",
+    "releaseNotes": "Selectable CCW/CW phase rotation, wrong-rotation detection, and improved phase monitoring logs",
+    "url": "https://raw.githubusercontent.com/rafa-aldaz/Teikoku_T-Pulse_Firmware_Releases/main/firmware/Teikoku_T-Pulse-1.0.1.5.bin",
+    "signatureUrl": null
+  },
+  {
     "version": "1.0.1.4",
     "build": "377",
     "releaseDate": "2026-06-04",
