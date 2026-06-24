@@ -1,5 +1,13 @@
 [
   {
+    "version": "1.0.1.6",
+    "build": "379",
+    "releaseDate": "2026-06-24",
+    "releaseNotes": "Updated phase monitor with Ok, warning, and errors only for wrong rotation and power loss",
+    "url": "https://raw.githubusercontent.com/rafa-aldaz/Teikoku_T-Pulse_Firmware_Releases/main/firmware/Teikoku_T-Pulse-1.0.1.6.bin",
+    "signatureUrl": null
+  },
+  {
     "version": "1.0.1.5",
     "build": "378",
     "releaseDate": "2026-06-16",
