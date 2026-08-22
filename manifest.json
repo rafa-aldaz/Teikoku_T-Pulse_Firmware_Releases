@@ -1,5 +1,13 @@
 [
   {
+    "version": "1.0.1.8",
+    "build": "381",
+    "releaseDate": "2026-08-22",
+    "releaseNotes": "1 s order-score phase analysis, pulse-count frequency, and BLE phase debug (0xDCA6) for VFD bring-up",
+    "url": "https://raw.githubusercontent.com/rafa-aldaz/Teikoku_T-Pulse_Firmware_Releases/main/firmware/Teikoku_T-Pulse-1.0.1.8.bin",
+    "signatureUrl": null
+  },
+  {
     "version": "1.0.1.6",
     "build": "379",
     "releaseDate": "2026-06-24",
