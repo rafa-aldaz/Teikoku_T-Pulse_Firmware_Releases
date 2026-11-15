@@ -1,5 +1,13 @@
 [
   {
+    "version": "1.0.1.9",
+    "build": "382",
+    "releaseDate": "2026-11-15",
+    "releaseNotes": "BLE and USB calibration for ADC and 4-20 mA, board MAC and serial identity, and A-45C/AM-45 meter tables",
+    "url": "https://raw.githubusercontent.com/rafa-aldaz/Teikoku_T-Pulse_Firmware_Releases/main/firmware/Teikoku_T-Pulse-1.0.1.9.bin",
+    "signatureUrl": null
+  },
+  {
     "version": "1.0.1.8",
     "build": "381",
     "releaseDate": "2026-08-22",
